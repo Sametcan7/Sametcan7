@@ -20,3 +20,6 @@
 </p>
 
 <h3 align="center">Connect with me: sametcan.akcaalan7@gmail.com </h3>
+
+
+![](https://komarev.com/ghpvc/?Sametcan7)
