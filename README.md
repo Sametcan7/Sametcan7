@@ -19,7 +19,6 @@
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
 </p>
 
-<h3 align="center">Connect with me: sametcan.akcaalan7@gmail.com </h3>
 
 
 
